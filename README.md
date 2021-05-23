@@ -7,6 +7,9 @@ The project is web-based featuring open architecture that means the app keeps up
 
 The software consists of a few key modules i.e. user login, check for available venues , booking venues, get directions for a venue/lecture, able to venue timetable for lectures and exams.
 
+## Demo
+
+[Watch Demo](Demo/demo.mp4)
 ## Roadmap
 
 - Redo of UI/UX of the website.
