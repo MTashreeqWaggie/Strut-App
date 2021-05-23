@@ -1,0 +1,181 @@
+{
+	"info": {
+		"_postman_id": "e5a8cf9e-e01a-42f7-a853-75c8b0c6cc58",
+		"name": "SRUT_API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "username",
+							"value": "3750662",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "areeb123",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/login",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "viewTimetable",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "studentNumber",
+							"value": "3750662",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/viewTimetable",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"viewTimetable"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "navigate",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "from",
+							"value": "Sunlab",
+							"type": "text"
+						},
+						{
+							"key": "to",
+							"value": "B Block",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/navigate",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"navigate"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "moduleName",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "1",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/moduleName",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"moduleName"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "venueName",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "1",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/venueName",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"venueName"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "isVenue",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "name",
+							"value": "A1",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/isVenue",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"isVenue"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
