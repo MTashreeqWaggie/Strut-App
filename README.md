@@ -1,1 +1,1 @@
-# Strut-Navigation-App
+# Strut App
