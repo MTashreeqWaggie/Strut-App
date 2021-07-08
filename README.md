@@ -10,6 +10,8 @@ The software consists of a few key modules i.e. user login, check for available 
 ## Demo
 
 ![Alt Text](https://github.com/MTashreeqWaggie/Strut-App/blob/main/Demo/demo.gif)
+
+https://github.com/MTashreeqWaggie/Strut-App/blob/main/Demo/demo.mp4
 ## Roadmap
 
 - Redo of UI/UX of the website.
