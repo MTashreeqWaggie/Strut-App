@@ -1,5 +1,7 @@
 # Strut-App
 
+## Description
+
 `Strut - Navigation App` is a simple [Django](https://www.djangoproject.com/) web application for the student who need to find their way around campus and stay on their studies an lectures.
 It was created for the student of the University of the Western Cape as a Capstone Project.
 
@@ -11,9 +13,7 @@ The software consists of a few key modules i.e. user login, check for available 
 
 ![caption](https://github.com/MTashreeqWaggie/Strut-App/blob/main/Demo/demo.gif)
 
-## Roadmap
-
-- Redo of UI/UX of the website.
+## Architecture Plans
 
 ## Dependencies
 
