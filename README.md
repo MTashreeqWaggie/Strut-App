@@ -7,7 +7,7 @@ The project is web-based featuring open architecture that means the app keeps up
 
 The software consists of a few key modules i.e. user login, check for available venues , booking venues, get directions for a venue/lecture, able to venue timetable for lectures and exams.
 
-## Demo
+## Demo (Image below is a gif)
 
 ![caption](https://github.com/MTashreeqWaggie/Strut-App/blob/main/Demo/demo.gif)
 
