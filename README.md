@@ -7,13 +7,17 @@ It was created for the student of the University of the Western Cape as a Capsto
 
 The project is web-based featuring open architecture that means the app keeps up with the dynamic needs of the app by addition of new systems & functionality.
 
-The software consists of a few key modules i.e. user login, check for available venues , booking venues, get directions for a venue/lecture, able to venue timetable for lectures and exams.
+The software consists of a few key modules i.e:
 
-## Demo (Image below is a gif)
+1 -> `User login.`
 
-![caption](https://github.com/MTashreeqWaggie/Strut-App/blob/main/Demo/demo.gif)
+2 -> `Check for available venues.`
 
-## Architecture Plans
+3 -> `Booking venues.`
+
+4 -> `Get directions for a venue/lecture.`
+
+5 -> `Able to check venue timetable for lectures and exams.`
 
 ## Dependencies
 
@@ -22,3 +26,9 @@ The software consists of a few key modules i.e. user login, check for available 
 | Materialize  | <https://materializecss.com/>                |
 | Django       | <https://www.djangoproject.com/>             |
 | SQL          | <https://www.sqlite.org//>                   |
+
+## Demo (gif)
+
+![caption](https://github.com/MTashreeqWaggie/Strut-App/blob/main/Demo/demo.gif)
+
+
