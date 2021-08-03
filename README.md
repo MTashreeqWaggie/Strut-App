@@ -23,6 +23,8 @@ The software consists of a few key modules i.e:
 
 Dummy account to checkout webapps functions - Username: 3750662 , Password: areeb123.
 
+[WebApp](https://mtashreeqwaggie.github.io/Strut-Frontend-Live/). It should only be viewed on a smartphone. Not optimized for desktop/laptop.
+
 ## Dependencies
 
 | Project      | Home Page                                    |
